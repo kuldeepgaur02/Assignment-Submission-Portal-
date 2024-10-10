@@ -37,7 +37,7 @@ Replace `your_mongodb_connection_string` with your actual MongoDB connection str
     ]
   }
 
-  ```json
+  
   {
     "Messgae" :  "User registered successfully"
   }
@@ -59,7 +59,7 @@ Replace `your_mongodb_connection_string` with your actual MongoDB connection str
     ]
   }
 
-  ```json
+ 
   {
     "Messgae" :  "Admin registered successfully"
   }
@@ -79,7 +79,7 @@ Replace `your_mongodb_connection_string` with your actual MongoDB connection str
     ]
   }
 
-  ```json
+  
   {
      "user": {
         "_id": "67075b94eab299b25f46a6ca",
@@ -108,7 +108,7 @@ Replace `your_mongodb_connection_string` with your actual MongoDB connection str
     ]
   }
 
-  ```json
+  
   {
    "user": {
         "_id": "670761a2eab299b25f46a6d6",
@@ -150,7 +150,7 @@ Replace `your_mongodb_connection_string` with your actual MongoDB connection str
 
   }
 
-  ```json
+  
   {
    
     "message": "Assignment uploaded successfully"
